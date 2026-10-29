@@ -1,0 +1,17 @@
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmListadoC.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmListadoD.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Drones\DroneOpsManager\bin\Debug\DroneOpsManager.exe.config
+C:\Users\PC\Downloads\Drones\DroneOpsManager\bin\Debug\DroneOpsManager.exe
+C:\Users\PC\Downloads\Drones\DroneOpsManager\bin\Debug\DroneOpsManager.pdb
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmFactura.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmInventario.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmLogin.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmMantenimiento.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmMision.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmPiloto.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.Formularios.frmReportes.resources
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.exe
+C:\Users\PC\Downloads\Drones\DroneOpsManager\obj\Debug\DroneOpsManager.pdb

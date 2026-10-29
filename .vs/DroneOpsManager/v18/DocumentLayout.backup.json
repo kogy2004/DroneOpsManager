@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmfactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmfactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmantenimiento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmantenimiento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmision.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmision.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmpiloto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmpiloto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadod.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadod.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmdrone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmdrone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmlistadoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmlistadoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\formularios\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:formularios\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|c:\\users\\pc\\downloads\\drones\\droneopsmanager\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1E230-5B29-4C88-9F15-2D81AA44B1C3}|DroneOpsManager.csproj|solutionrelative:clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:17:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.cs",
+              "RelativeToolTip": "Formularios\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:16:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:16:46.054Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReportes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmReportes.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmReportes.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:16:25.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmReportes.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.cs",
+              "RelativeToolTip": "Formularios\\frmReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:16:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmReportes.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:16:01.05Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFactura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFactura.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmFactura.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwNYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:15:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmFactura.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFactura.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.cs",
+              "RelativeToolTip": "Formularios\\frmFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:15:21.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmFactura.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:15:14.889Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmInventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmInventario.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmInventario.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:14:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmInventario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmInventario.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.cs",
+              "RelativeToolTip": "Formularios\\frmInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:14:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmInventario.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:14:28.604Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMantenimiento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMantenimiento.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmMantenimiento.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:14:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.cs",
+              "RelativeToolTip": "Formularios\\frmMantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:13:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMantenimiento.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:13:43.759Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMision.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMision.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmMision.Designer.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAowAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:13:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMision.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMision.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.cs",
+              "RelativeToolTip": "Formularios\\frmMision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:12:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMision.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMision.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMision.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmMision.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:12:55.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmPiloto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmPiloto.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmPiloto.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAwCgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:11:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmPiloto.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.cs",
+              "RelativeToolTip": "Formularios\\frmPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:10:58.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPiloto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmPiloto.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmPiloto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmPiloto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:10:56.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmListadoD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoD.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmListadoD.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:07:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmListadoD.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoD.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.cs",
+              "RelativeToolTip": "Formularios\\frmListadoD.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:07:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmListadoD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoD.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmListadoD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:07:27.953Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDrone.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmDrone.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmDrone.Designer.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAywEIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:06:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDrone.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmDrone.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.cs",
+              "RelativeToolTip": "Formularios\\frmDrone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:06:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmDrone.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmDrone.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmDrone.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmDrone.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:06:23.547Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmListadoC.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoC.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmListadoC.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:05:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmListadoC.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoC.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.cs",
+              "RelativeToolTip": "Formularios\\frmListadoC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:04:54.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmListadoC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmListadoC.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmListadoC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmListadoC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:04:25.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmCliente.Designer.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAywDABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:03:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.cs",
+              "RelativeToolTip": "Formularios\\frmCliente.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAUwOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:03:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:03:34.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmMenu.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:01:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.cs",
+              "RelativeToolTip": "Formularios\\frmMenu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:01:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T01:01:03.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "cConexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Clases\\cConexion.cs",
+              "RelativeDocumentMoniker": "Clases\\cConexion.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Drones\\DroneOpsManager\\Clases\\cConexion.cs",
+              "RelativeToolTip": "Clases\\cConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T00:49:54.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
